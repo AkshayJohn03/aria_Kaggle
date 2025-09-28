@@ -1,0 +1,21 @@
+aria_kaggle/
+│
+├── data/                   # Place train.csv, test.csv, and kaggle_evaluation/ here
+│
+├── notebooks/              # Optional exploratory notebooks
+│
+├── src/                    # All code scripts
+│   ├── preprocess.py       # NaN handling, scaling, lagged features, rolling stats
+│   ├── features.py         # Feature engineering (lags, rolling volatility)
+│   ├── models/             # Model definitions
+│   │   ├── tcn_model.py
+│   │   ├── lgbm_model.py
+│   │   └── ridge_model.py
+│   ├── train.py            # Main training loop (CV, OOF generation)
+│   ├── blend.py            # Final blending logic
+│   └── predict.py          # Generates final submission.csv
+│
+├── logs/                   # Training logs (TensorBoard / CSV)
+├── outputs/                # Saved models (checkpoints, final weights)
+├── requirements.txt        # Dependencies
+└── README.md               # Project description, architecture, usage instructions

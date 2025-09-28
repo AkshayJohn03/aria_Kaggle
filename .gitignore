@@ -1,0 +1,26 @@
+    # --- Data and Output ---
+# Ignore raw data files (train/test)
+data/
+# Ignore large processed files and final outputs
+processed/
+*.csv
+*.zip
+
+# --- Python Environment and Logs ---
+# Ignore virtual environment folder
+.venv/
+# Ignore compilation cache files
+__pycache__/
+*.pyc
+# Ignore environment variables/credentials
+.env
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Model Checkpoints / Logs (common ML/DL outputs) ---
+*.h5
+*.pkl
+*.pth
+*.log
