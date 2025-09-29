@@ -1,0 +1,10 @@
+artifact_location: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-57837a7f41684dcca26f589874fefb11/artifacts
+creation_timestamp: 1759096426610
+experiment_id: '231595006954491796'
+last_updated_timestamp: 1759096433654
+model_id: m-57837a7f41684dcca26f589874fefb11
+model_type: null
+name: lgbm_model
+source_run_id: 00474a2018fc4b4a9320de8b16f18a67
+status: 2
+status_message: null

@@ -1,0 +1,21 @@
+artifact_path: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-57837a7f41684dcca26f589874fefb11/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMRegressor
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.9
+mlflow_version: 3.4.0
+model_id: m-57837a7f41684dcca26f589874fefb11
+model_size_bytes: 6205216
+model_uuid: m-57837a7f41684dcca26f589874fefb11
+prompts: null
+run_id: 00474a2018fc4b4a9320de8b16f18a67
+utc_time_created: '2025-09-28 21:53:46.694593'

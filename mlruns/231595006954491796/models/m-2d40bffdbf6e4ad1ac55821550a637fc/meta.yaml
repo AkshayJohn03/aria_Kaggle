@@ -1,0 +1,10 @@
+artifact_location: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-2d40bffdbf6e4ad1ac55821550a637fc/artifacts
+creation_timestamp: 1759153205113
+experiment_id: '231595006954491796'
+last_updated_timestamp: 1759153383223
+model_id: m-2d40bffdbf6e4ad1ac55821550a637fc
+model_type: null
+name: lstm_deep_model
+source_run_id: feb484624e3543d6aa1ab9211be46009
+status: 2
+status_message: null

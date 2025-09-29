@@ -9,4 +9,7 @@ torchaudio
 matplotlib
 seaborn
 tqdm
+tensorflow
 tensorboard
+loguru
+mlflow

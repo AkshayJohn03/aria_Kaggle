@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/c55072b39fe34f5c83f5a1a1ec5cef86/artifacts
+end_time: 1759143346285
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: c55072b39fe34f5c83f5a1a1ec5cef86
+run_name: gentle-smelt-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143340028
+status: 3
+tags: []
+user_id: Akshay

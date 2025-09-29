@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/f07ea8bafd2441cb895cd5c296c18a01/artifacts
+end_time: 1759143289857
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: f07ea8bafd2441cb895cd5c296c18a01
+run_name: masked-cat-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143285351
+status: 3
+tags: []
+user_id: Akshay

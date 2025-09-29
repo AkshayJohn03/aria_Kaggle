@@ -1,0 +1,10 @@
+artifact_location: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-d6f213b0b2304eb4a8568a342a118843/artifacts
+creation_timestamp: 1759148802158
+experiment_id: '231595006954491796'
+last_updated_timestamp: 1759148811287
+model_id: m-d6f213b0b2304eb4a8568a342a118843
+model_type: null
+name: mlp_blender
+source_run_id: c593070a39f04393b83bc455f155a25a
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-1b1aa88fa10f40b986e212f70d5b28f8/artifacts
+creation_timestamp: 1759161032079
+experiment_id: '231595006954491796'
+last_updated_timestamp: 1759161055142
+model_id: m-1b1aa88fa10f40b986e212f70d5b28f8
+model_type: null
+name: ridge_blender_3_model
+source_run_id: 541da59ac2a445c88fcfd85477763370
+status: 2
+status_message: null

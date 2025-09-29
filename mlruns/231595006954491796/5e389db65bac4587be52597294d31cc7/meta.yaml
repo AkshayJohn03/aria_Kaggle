@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/5e389db65bac4587be52597294d31cc7/artifacts
+end_time: 1759143315981
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: 5e389db65bac4587be52597294d31cc7
+run_name: omniscient-bug-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143307882
+status: 3
+tags: []
+user_id: Akshay

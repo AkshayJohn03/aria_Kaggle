@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/ec10ff0cfe444154aac23eef816e3e7b/artifacts
+end_time: 1759143329672
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: ec10ff0cfe444154aac23eef816e3e7b
+run_name: nebulous-ox-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143325117
+status: 3
+tags: []
+user_id: Akshay

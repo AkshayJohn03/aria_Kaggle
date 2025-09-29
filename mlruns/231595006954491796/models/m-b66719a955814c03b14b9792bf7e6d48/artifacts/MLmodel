@@ -1,0 +1,22 @@
+artifact_path: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-b66719a955814c03b14b9792bf7e6d48/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.9
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.4.0
+model_id: m-b66719a955814c03b14b9792bf7e6d48
+model_size_bytes: 827092
+model_uuid: m-b66719a955814c03b14b9792bf7e6d48
+prompts: null
+run_id: c8ac71242ce04f38bdcc286afbc93bdf
+utc_time_created: '2025-09-28 22:12:25.928707'

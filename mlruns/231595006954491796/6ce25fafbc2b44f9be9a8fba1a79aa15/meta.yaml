@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/6ce25fafbc2b44f9be9a8fba1a79aa15/artifacts
+end_time: 1759143237620
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: 6ce25fafbc2b44f9be9a8fba1a79aa15
+run_name: traveling-calf-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143225200
+status: 3
+tags: []
+user_id: Akshay

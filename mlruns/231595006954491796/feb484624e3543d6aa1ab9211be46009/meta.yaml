@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/feb484624e3543d6aa1ab9211be46009/artifacts
+end_time: 1759153383269
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: feb484624e3543d6aa1ab9211be46009
+run_name: LSTM_Deep_Optimization
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759151287116
+status: 3
+tags: []
+user_id: Akshay

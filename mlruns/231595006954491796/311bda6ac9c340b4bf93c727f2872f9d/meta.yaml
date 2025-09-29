@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/311bda6ac9c340b4bf93c727f2872f9d/artifacts
+end_time: 1759148626804
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: 311bda6ac9c340b4bf93c727f2872f9d
+run_name: Blender_Ridge_3_Model_Stack
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759148621536
+status: 3
+tags: []
+user_id: Akshay

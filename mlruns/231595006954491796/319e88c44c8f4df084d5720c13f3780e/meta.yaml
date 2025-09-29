@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/319e88c44c8f4df084d5720c13f3780e/artifacts
+end_time: 1759143390824
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: 319e88c44c8f4df084d5720c13f3780e
+run_name: LGBM_OPTIMIZED_FINAL_MODEL
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143369605
+status: 3
+tags: []
+user_id: Akshay

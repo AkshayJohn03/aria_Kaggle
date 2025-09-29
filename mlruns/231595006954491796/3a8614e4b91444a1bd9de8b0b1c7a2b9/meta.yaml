@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/3a8614e4b91444a1bd9de8b0b1c7a2b9/artifacts
+end_time: 1759143255184
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: 3a8614e4b91444a1bd9de8b0b1c7a2b9
+run_name: smiling-pig-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143248777
+status: 3
+tags: []
+user_id: Akshay

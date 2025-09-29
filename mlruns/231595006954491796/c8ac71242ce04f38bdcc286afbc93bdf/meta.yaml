@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/c8ac71242ce04f38bdcc286afbc93bdf/artifacts
+end_time: 1759097555042
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: c8ac71242ce04f38bdcc286afbc93bdf
+run_name: TCN_Deep_Temporal
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759097417762
+status: 3
+tags: []
+user_id: Akshay

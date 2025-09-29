@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/e70d4b0f369046fabfdc76f243a0287c/artifacts
+end_time: 1759143257204
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: e70d4b0f369046fabfdc76f243a0287c
+run_name: upset-doe-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759143255209
+status: 3
+tags: []
+user_id: Akshay

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/885a8f9cde21400bb70d7986a142060b/artifacts
+end_time: 1759144180871
+entry_point_name: ''
+experiment_id: '231595006954491796'
+lifecycle_stage: active
+run_id: 885a8f9cde21400bb70d7986a142060b
+run_name: Blender_mlp_Stack
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759144153985
+status: 3
+tags: []
+user_id: Akshay

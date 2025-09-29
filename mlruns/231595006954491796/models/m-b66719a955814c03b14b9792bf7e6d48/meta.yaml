@@ -1,0 +1,10 @@
+artifact_location: file:///D:/aria/aria_Kaggle/mlruns/231595006954491796/models/m-b66719a955814c03b14b9792bf7e6d48/artifacts
+creation_timestamp: 1759097545858
+experiment_id: '231595006954491796'
+last_updated_timestamp: 1759097555026
+model_id: m-b66719a955814c03b14b9792bf7e6d48
+model_type: null
+name: tcn_model
+source_run_id: c8ac71242ce04f38bdcc286afbc93bdf
+status: 2
+status_message: null
